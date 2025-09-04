@@ -1,0 +1,32 @@
+Product List
+Category
+Description
+Price
+Props
+20" Scary Cat
+$19.99
+Flying Bats
+$14.99
+16" Ugly Rat
+$14.99
+20" Uglier Rat
+$19.99
+Plastic Skeleton
+$22.50
+Costumes
+Austin Powers
+$79.50
+Frankenstein
+$79.99
+Martians
+$69.99
+Special Effects
+Fog Machine
+$34.99
+Mini Strobe Light
+$14.99
+Masks
+Freddy
+$44.50
+Darth Vader
+$124.50

@@ -1,0 +1,38 @@
+<ul>
+	<li>
+		<ul>
+			<li><a href="bats.html">Flying bats</a></li>
+			<li>Bats flying in front of a full moon make for an eerie spectacle.</li>
+			<li><strong>Price:</strong> 69.99</li>
+		</ul>
+	</li>
+	<li>
+		<ul>
+			<li><a href="cat.html">20" Scary Cat</a></li>
+			<li>This cat provudes its own light and is perfect for a backyard haunting.</li>
+			<li><strong>Price:</strong> 19.99</li>
+		</ul>
+	</li>
+	<li>
+		<ul>
+			<li><a href="rat-16.html">16" Ugly rat</a></li>
+			<li>This guy is sure to shorten the stay of any unwanted house guests.</li>
+			<li><strong>Price:</strong> 14.99</li>
+		</ul>
+	</li>
+	<li>
+		<ul>
+			<li><a href="rat-20.html">20" Uglier Rat</a></li>
+			<li>Yuck! This one will keep you awake at night.</li>
+			<li><strong>Price:</strong> 19.99</li>
+		</ul>
+	</li>
+	
+	<li>
+		<ul>
+			<li><a href="skeleton.html">Plastic skeleton</a></li>
+			<li>This life-size plastic skeleton will be the life of the party. Use him as is or dress him up for an even better effect.</li>
+			<li><strong>Price:</strong> 14.95</li>
+		</ul>
+	</li>
+</ul>
