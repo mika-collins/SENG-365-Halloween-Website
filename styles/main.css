@@ -49,13 +49,14 @@ nav ul {
 
 nav li {
     flex-basis: 20%;
+    position: relative;
 }
 
 nav ul li a {
     display: block;
     background-color: black;
     text-align: center;
-    padding: 5px 0 0 5px;
+    padding: 5px 0;
     text-decoration: none;
 }
 
@@ -72,10 +73,19 @@ a#current {
     font-weight: bold;
 }
 
+nav ul li ul {
+    position: absolute;
+    width: 100%;
+    display: none;  
+}
+
+nav ul li:hover ul, nav ul li:focus ul {
+    display: block;
+}
+
 main {
     padding: 15px 25px 25px 25px;
     display: flex;
-
 }
 
 section:first-child {
