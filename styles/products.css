@@ -1,0 +1,12 @@
+/* Mika P. Collins */
+
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    margin-bottom: 20px;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+}
