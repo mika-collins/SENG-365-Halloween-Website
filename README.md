@@ -13,7 +13,12 @@ This project is an ongoing Halloween store website developed throughout a series
 - **GitHub** for version control
 
 ## 📝 Labs:
-Each lab introduces new concepts and features, building towards a fully functional website:
+Each lab introduces new concepts and features, building towards a fully functional website.
+
+<details>
+  <summary>Click to view lab details</summary>
+  <br>
+
 
 - **Lab 1:** Create the [Home Page](#home-page) (HTML structure)
 - **Lab 2:** Apply external CSS to format the [Home Page](#home-page)
@@ -22,6 +27,11 @@ Each lab introduces new concepts and features, building towards a fully function
 - **Lab 5:** Add dropdown navigation (2nd-tier menu)
 - **Lab 6:** Create the [Props Page](#props-page) with product listings and links
 - **Lab 7:** Create the [Costumes Page](#costumes-page) with images, product descriptions, and links
+- **Lab 8:** Create the [Personal Page](#personal-page) and [Videos Page](#videos-page) with imported fonts, audio, video, and a print style sheet
+
+</details>
+<br>
+
 
 ✅ Upcoming labs will continue to add more pages, styling refinements, and interactive features. 
 
@@ -47,3 +57,8 @@ To view the Halloween Store website locally:
 ### Costumes Page:
 ![CostumesPage](images/readme/costumespage.png)
 
+### Personal Page:
+![PersonalPage](images/readme/personalpage.png)
+
+### Videos Page:
+![VideosPage](images/readme/videospage.png)
