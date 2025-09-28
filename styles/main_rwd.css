@@ -158,3 +158,11 @@ footer {
     border-top: 0.125rem solid black;
     padding: 0.625rem;
 }
+
+/* Media query for medium screen sizes with a maximum width of 810px */
+@media screen and (max-width: 810px) {
+    body {
+        width: 90%;
+        box-shadow: none;
+    }
+}
