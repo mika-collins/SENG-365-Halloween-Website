@@ -28,6 +28,7 @@ Each lab introduces new concepts and features, building towards a fully function
 - **Lab 7:** Create the [Costumes Page](#costumes-page) with images, product descriptions, and links
 - **Lab 8:** Create the [Personal Page](#personal-page) and [Videos Page](#videos-page) with imported fonts, audio, video, and a print style sheet
 - **Lab 9:** Enhance the [Home Page](#home-page) to make it responsive
+- **Lab 10:** Create the [Products Page](#products-page) with a table to present a list of products
 
 </details>
 
@@ -59,7 +60,7 @@ To view the Halloween Store website locally:
 
   <div>
     <p><strong>iPad Mini Example:</strong></p>
-    <img src="images/readme/homepage-rwd2.png" alt="Home Page iPad Mini Image" width="400">
+    <img src="images/readme/homepage-rwd2.png" alt="Home Page iPad Mini Image" width="250">
   </div>
 </div>
 
@@ -76,3 +77,6 @@ To view the Halloween Store website locally:
 
 ### Videos Page:
 ![VideosPage](images/readme/videospage.png)
+
+### Products Page:
+![ProductsPage](images/readme/productspage.png)
