@@ -49,23 +49,18 @@ To view the Halloween Store website locally:
 ### Home Page:
 ![HomePage](images/readme/homepage.png)
 
-<details>
-  <summary>Click to view responsive home page screenshots</summary>
-
-<br>
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div>
-    <p><strong>iPhone 12 Pro Example:</strong></p>
-    <img src="images/readme/homepage-rwd1.png" alt="Home Page iPhone 12 Pro Image" width="200">
-  </div>
-
-  <div>
-    <p><strong>iPad Mini Example:</strong></p>
-    <img src="images/readme/homepage-rwd2.png" alt="Home Page iPad Mini Image" width="250">
-  </div>
-</div>
-
-</details>
+<table>
+  <tr>
+    <td valign="top">
+      <p><strong>iPhone 12 Pro Example:</strong></p>
+      <img src="images/readme/homepage-rwd1.png" alt="Home Page iPhone 12 Pro Image" width="200">
+    </td>
+    <td valign="top">
+      <p><strong>iPad Mini Example:</strong></p>
+      <img src="images/readme/homepage-rwd2.png" alt="Home Page iPad Mini Image" width="250">
+    </td>
+  </tr>
+</table>
 
 ### Props Page:
 ![PropsPage](images/readme/propspage.png)
