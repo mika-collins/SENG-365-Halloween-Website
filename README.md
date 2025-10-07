@@ -29,6 +29,7 @@ Each lab introduces new concepts and features, building towards a fully function
 - **Lab 8:** Create the [Personal Page](#personal-page) and [Videos Page](#videos-page) with imported fonts, audio, video, and a print style sheet
 - **Lab 9:** Enhance the [Home Page](#home-page) to make it responsive
 - **Lab 10:** Create the [Products Page](#products-page) with a table to present a list of products
+- **Lab 11:** Create the [Email Page](#email-page) with a form for joining an email list and links to the [Subscribe Page](#subscribe-page)
 
 </details>
 
@@ -80,3 +81,9 @@ To view the Halloween Store website locally:
 
 ### Products Page:
 ![ProductsPage](images/readme/productspage.png)
+
+### Email Page:
+![EmailPage](images/readme/emailpage.png)
+
+### Subscribe Page:
+![SubscribePage](images/readme/subscribepage.png)
