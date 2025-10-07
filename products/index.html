@@ -34,6 +34,31 @@
             text-align: right;
             background-color: #F5DEB3;
         }
+
+        @media screen and (max-width: 640px) {
+            table {
+                width: 100%;
+            }
+
+            thead {
+                display: none;
+            }
+
+            tr {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+            }
+
+            th {
+                flex-basis: 100%;
+                background-color: rgba(0, 128, 0, 10%);
+            }
+
+            td:last-child {
+                background-color: white;
+            }
+        }
     </style>
 </head>
 
