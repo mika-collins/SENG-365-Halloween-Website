@@ -30,6 +30,7 @@ Each lab introduces new concepts and features, building towards a fully function
 - **Lab 9:** Enhance the [Home Page](#home-page) to make it responsive
 - **Lab 10:** Create the [Products Page](#products-page) with a table to present a list of products
 - **Lab 11:** Create the [Email Page](#email-page) with a form for joining an email list and links to the [Subscribe Page](#subscribe-page)
+- **Lab 12:** Create the [Cat Product Page](#cat-product-page) using a grid layout and responsive design
 
 </details>
 
@@ -82,3 +83,6 @@ To view the Halloween Store website locally:
 
 ### Subscribe Page:
 ![SubscribePage](images/readme/subscribepage.png)
+
+### Cat Product Page:
+![CatPage](images/readme/catpage.png)
